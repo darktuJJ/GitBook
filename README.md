@@ -7,7 +7,7 @@ description: 陀螺仪协议文档
 {% hint style="info" %}
 陀螺仪DAO负责启动陀螺仪系统，并决定有哪些机制应该被纳入最终设计中。本文件描述了FTL实验室通过学术研究和开发制定的理论设计机制
 
-如果文档有任何不清楚或过时的地方，请通过Github向Gyroscope-Docs存储库提交合并请求。
+如果文档有任何不清楚或过时的地方，请通过Github向[Gyroscope-CN存储库](https://github.com/darktuJJ/GitBook/tree/Gyroscope-CN)提交合并请求。
 {% endhint %}
 
 ### 陀螺仪协议
