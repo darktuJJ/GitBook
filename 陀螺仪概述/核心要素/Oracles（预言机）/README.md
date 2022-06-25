@@ -10,6 +10,5 @@ description: 集成到陀螺仪中的预言机和护栏的详尽清单
 
 目前，陀螺仪正在使用以下预言机：
 
-* 综合价格供应（CPF）
 * Balancer池的LP令牌（BPT）
 * <mark style="color:red;">更多内容即将推出...</mark>

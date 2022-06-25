@@ -16,7 +16,7 @@ PAMM 的形态（即提供铸币/赎回报价的联合曲线）是基于当前�
 
 下图中所示的是不同储备率水平下的PAMM赎回曲线与Uniswap50-50流动池的对比：
 
-{% embed url="https://2063019688-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MU527HCtxlYaQoNazhF%2Fuploads%2F1SZSPI7m4l4S9EhenYzb%2FStylized%20PAMM%20Redemption%20Curve%20v3.png?alt=media&token=b35e6caa-2216-4e40-9a2f-43d2cfe3feb8" %}
+![](<../../../.gitbook/assets/Graph 7 v2.png>)
 
 ### 举例和进一步的解释
 

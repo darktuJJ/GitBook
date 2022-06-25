@@ -14,12 +14,6 @@ description: 弹性治理元素在陀螺仪中的应用
 * 治理者
 * 被动流动性提供者（LPs）
 
-{% embed url="https://2063019688-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MU527HCtxlYaQoNazhF%2Fuploads%2FoJT6MbatKPV4chPIlP9Y%2FGovernance%20Flow%20Chart.png?alt=media&token=af5b3855-f77c-4b91-9365-55b45ae7b27d" %}
-待编辑
-{% endembed %}
-
-<mark style="color:red;">**上下图待编辑**</mark>
-
 ![](<../../.gitbook/assets/Governance Flow Chart v3.png>)
 
 请继续阅读并了解陀螺仪的设计如何促进这种良性循环。
@@ -41,3 +35,4 @@ Gyroscope 提出了一个新的治理元素，称为 "[有条件现金流](有�
 但是，我们怎么知道治理者不会以其他方式滥用权力呢？Gyroscope 提出了另一种新的治理元素，称为 "[乐观治理](乐观治理.md)"，它通过一个制衡系统将治理者引向这条道路。在这个机制中，如果治理者试图偏离协议的共同愿景，Gyro Dollar 持有者可以在时间锁定期间有选择性的行使否决权来阻止它。通常情况下，如果治理提案是合理的，Gyro Dollar 持有人不需要做任何事情；如果治理行动是有争议的，Gyro Dollar 持有者可以行使否决权，如果有足够多的人这样做，该提案就会被阻止。
 
 Gyroscope 是赋予社区管理他们自己资金的权力，它提供一流的机制来实现这一点。**公平和去中心化**是治理代币分配的首要任务。
+
