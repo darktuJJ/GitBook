@@ -17,6 +17,6 @@ Gyroscope 使用**两种不同的自动化做市商类型**。
 
 SAMMs各自将流动性集中在 PAMM 为**储备资产—Gyro稳定币对**提供的价格范围内。它们保证了Gyro稳定币有着高流动性的出入渠道。SAMMs 也是相互独立的：如果一个SAMM中的配对资产崩溃，其余的池仍然可以运作，而不像当前那些只采用一个公共AMM池的设计。SAMMs将形成一个连接池网络的中心，提供高效的交易路径。一些陀螺仪储备金库将把资产部署到增强这个网络的资金池中，其他现有的AMM池将与SAMMs中的交易对相连接。
 
-![陀螺仪SAMM和储备池形成了一个DEX网络，在这个网络中，个别资金池崩溃也不会破坏整体流动性](<../../../.gitbook/assets/AMMs Graphic Rounded Edges.png>)
-
 这种设计的一个特点是，它引入了一个挂钩协调机制。这个机制在促进锚定价格附近流动性的同时，也可以在协调失效时通过一个断路器来抵御投机狙击和挤兑。
+
+{% embed url="https://2063019688-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MU527HCtxlYaQoNazhF%2Fuploads%2F7VmlNzsOSqijj9cjFuLR%2FSAMM%20and%20Reserve%20Pools%20Graphic.png?alt=media&token=829dac44-5425-4491-ba4b-9d12cf798eb3" %}

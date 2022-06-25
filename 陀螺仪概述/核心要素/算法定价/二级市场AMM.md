@@ -17,6 +17,6 @@ description: 在 PAMM 定义的价格范围内集中流动性
 
 下图中所示的是 SAMM 赎回曲线与Uniswap50-50流动池的对比：
 
-![SAMMs 将流动性集中在 PAMM 的价格范围内 (这里模拟了在冲击环境下PAMM改变形态).](<../../../.gitbook/assets/Graph 6 v2.png>)
+{% embed url="https://2063019688-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MU527HCtxlYaQoNazhF%2Fuploads%2FyL9TAfmgoizjrptvytYD%2FStylized%20SAMM%20Redemption%20Curve%20v3.png?alt=media&token=12eea46a-caf1-4788-8bad-9aaf90940a79" %}
 
 SAMM 设计包含了优化的联合曲线和虚拟储备机制。我们会在即将发布的 SAMM 技术论文中对其进一步优化并提供详尽、正式的描述。更多细节暂时可见[<mark style="color:red;">白皮书</mark>](https://gyro.finance/pdfs/Gyroscope\_Lite\_Paper.pdf)第3.5节。
