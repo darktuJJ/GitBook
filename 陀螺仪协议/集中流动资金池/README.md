@@ -17,7 +17,7 @@ description: CLPs是一类AMMs，在规定的范围内为资产交换定价
 
 * 高资本效率
 * 高GAS效率
-* 简单的用户体验
+* 简便的用户体验
 {% endhint %}
 
 {% embed url="https://2063019688-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MU527HCtxlYaQoNazhF%2Fuploads%2FHwUn4OBtNrJvPeelKV1p%2F2-clp-v2.gif?alt=media&token=4e4866b1-49ab-4f08-b4df-9bf6d1170296" %}

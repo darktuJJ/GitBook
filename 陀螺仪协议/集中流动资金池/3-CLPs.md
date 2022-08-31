@@ -40,7 +40,7 @@ description: 立方体集中流动性池或3-CLPs
 
 * **资本效率：**通过将流动性集中在三种资产之间，与类似于2-CLPs的交易对设置相比，3-CLPs通过聚合第三种资产实现了50%的资本效率提升。
 * **GAS效率：**三个资产之间的交易相比通过两个不同的2-CLP连接两个交易更省GAS。
-* **用户体验：**3-CLPs在结构和用户体验方面仍然比较简单。
+* **用户体验：**3-CLPs在结构和用户体验方面仍然比较简便。
 
 {% embed url="https://2063019688-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-MU527HCtxlYaQoNazhF%2Fuploads%2FZJMm9nSAJWIU3T74TaWG%2F3-3CLP%20(1).gif?alt=media&token=e3bc2dd9-eb31-4ede-a8ba-2298d7ca6c94" %}
 **3-CLPs的资本效率收益的程式化代表**
