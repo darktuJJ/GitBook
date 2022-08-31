@@ -1,8 +1,8 @@
 ---
-description: An overview of the core elements of Gyroscope
+description: 陀螺仪核心要素介绍
 ---
 
-# 核心要素
+# 陀螺仪稳定币
 
 {% content-ref url="储备设计.md" %}
 [储备设计.md](储备设计.md)
@@ -16,6 +16,6 @@ description: An overview of the core elements of Gyroscope
 [互补性的稳定机制.md](互补性的稳定机制.md)
 {% endcontent-ref %}
 
-{% content-ref url="Oracles（预言机）/" %}
-[Oracles（预言机）](Oracles（预言机）/)
+{% content-ref url="../预言机和价格信息/" %}
+[预言机和价格信息](../预言机和价格信息/)
 {% endcontent-ref %}

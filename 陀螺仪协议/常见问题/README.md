@@ -6,6 +6,10 @@ description: 经常会问到的问题
 
 ## 概述
 
+{% content-ref url="陀螺仪协议有白皮书吗？.md" %}
+[陀螺仪协议有白皮书吗？.md](陀螺仪协议有白皮书吗？.md)
+{% endcontent-ref %}
+
 {% content-ref url="陀螺仪稳定币有什么不同？.md" %}
 [陀螺仪稳定币有什么不同？.md](陀螺仪稳定币有什么不同？.md)
 {% endcontent-ref %}
@@ -33,4 +37,3 @@ description: 经常会问到的问题
 {% content-ref url="经典问答.md" %}
 [经典问答.md](经典问答.md)
 {% endcontent-ref %}
-
