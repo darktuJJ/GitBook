@@ -61,7 +61,7 @@ YieldSpace白皮书中首次提出了虚拟储备的概念，Uniswap v3首次提
 
 要阅读有关文档和实施的信息，请参见以下资源：
 
-{% content-ref url="../技术文档.md" %}
-[技术文档.md](../技术文档.md)
+{% content-ref url="../技术文档/" %}
+[技术文档](../技术文档/)
 {% endcontent-ref %}
 

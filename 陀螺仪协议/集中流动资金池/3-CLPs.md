@@ -68,6 +68,6 @@ description: 立方体集中流动性池或3-CLPs
 
 要阅读有关数学规范和实施的信息，请参见以下资源：
 
-{% content-ref url="../技术文档.md" %}
-[技术文档.md](../技术文档.md)
+{% content-ref url="../技术文档/" %}
+[技术文档](../技术文档/)
 {% endcontent-ref %}

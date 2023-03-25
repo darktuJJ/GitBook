@@ -18,8 +18,8 @@ description: 经常会问到的问题
 [为什么叫陀螺仪？.md](为什么叫陀螺仪？.md)
 {% endcontent-ref %}
 
-{% content-ref url="为什么它的图标是一个黑洞？.md" %}
-[为什么它的图标是一个黑洞？.md](为什么它的图标是一个黑洞？.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="陀螺仪的易扩展性如何？.md" %}
