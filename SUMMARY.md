@@ -1,8 +1,10 @@
 # Table of contents
 
+* [tldr: 什么是 Gyroscope](README.md)
+
 ## 陀螺仪协议 <a href="#陀螺仪协议" id="陀螺仪协议"></a>
 
-* [介绍](README.md)
+* [介绍](<README (1).md>)
 * [陀螺仪稳定币](陀螺仪协议/核心要素/README.md)
   * [储备设计](陀螺仪协议/核心要素/储备设计.md)
   * [算法定价](陀螺仪协议/核心要素/算法定价/README.md)
