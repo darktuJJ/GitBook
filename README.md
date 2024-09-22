@@ -9,7 +9,7 @@ _Gyroscope 的非技术性概述_
 
 Gyroscope 是一个去中心化的稳定币，采用了新颖的全天候稳定币设计，结合了更高效的稳定币流动性池。
 
-### Gyro Dollars（GYD）
+### \*\*Gyro Dollars（GYD）\*\*
 
 Gyroscope 的稳定币 **Gyro Dollars（GYD）**，旨在由一篮子资产完全支撑，并在协议层面内置了创新的风险控制机制。GYD 的设计旨在分离并控制来自各类资产的风险，具体包括：
 
