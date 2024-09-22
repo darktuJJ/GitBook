@@ -1,6 +1,5 @@
 ---
-cover: >-
-  https://docs.gyro.finance/~gitbook/image?url=https%3A%2F%2F3407769812-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252F-MU527HCtxlYaQoNazhF%252Fuploads%252FYSvrJBGMzQ3jJcoKC1JS%252FDiscord%2520Invite%2520Image.jpg%3Falt%3Dmedia%26token%3De712845c-6789-4613-8054-ba4d158f74f1&width=768&dpr=2&quality=100&sign=837e69a0&sv=1
+cover: .gitbook/assets/image.avif
 coverY: 0
 ---
 
