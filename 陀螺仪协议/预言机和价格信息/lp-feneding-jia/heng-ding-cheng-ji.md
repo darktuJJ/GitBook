@@ -18,10 +18,10 @@ Balancer池的恒定乘积是指：
 
 Balancer池的组合价值可以计算为：
 
-&#x20;                                ![](<../../../.gitbook/assets/image (1).png>)
+&#x20;                                ![](<../../../.gitbook/assets/image (1) (2).png>)
 
 然后，反过来，BPT价格可以计算为
 
-&#x20;                             ![](<../../../.gitbook/assets/image (3).png>)             &#x20;
+&#x20;                             ![](<../../../.gitbook/assets/image (3) (1).png>)             &#x20;
 
 [^1]: k
