@@ -1,5 +1,6 @@
 ---
 description: 如何定价n个资产的恒定乘积池（普通的Balancer池）：
+hidden: true
 ---
 
 # 恒定乘积
