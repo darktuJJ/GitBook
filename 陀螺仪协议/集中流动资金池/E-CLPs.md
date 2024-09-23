@@ -4,7 +4,7 @@ description: 椭圆形流动资金池或E-CLPs
 
 # E-CLPs
 
-### E-CLPs的描述
+### E-CLPs的简介
 
 **椭圆形CLPs，或E-CLPs，允许沿椭圆形的曲线进行交易。E-CLPs将被用于包括陀螺仪稳定币GYD在内的稳定币池。**
 

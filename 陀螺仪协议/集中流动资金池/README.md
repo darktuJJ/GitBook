@@ -34,6 +34,14 @@ description: CLPs是一类AMMs，在规定的范围内为资产交换定价
 3-CLPs的资本效率收益的程式化代表
 {% endembed %}
 
+* E-CLPs（即椭圆形 CLPs）支持两个资产的不对称集中流动性。它们提供了一种新的集中流动性类型，使得在单一池位中能够实现高度灵活和不对称的流动性分布。
+
+<figure><img src="../../.gitbook/assets/E-CLP-liquidity-density-animated-chart-v6.gif" alt=""><figcaption><p>与 StableSwap 相比，E-CLP 的非对称集中流动性只将流动性投放到需要的地方，从而提高了资本效率。</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/Rate-providers-v8.gif" alt=""><figcaption><p>E-CLP 利率提供商通过自动化流动性管理和降低 LVR，提高了收益资产池的效率。</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/Boosted-E-CLPs.gif" alt=""><figcaption><p>Rehype 资金池将多个收益来源整合到一个资金池中。</p></figcaption></figure>
+
 ## CLPs的用户
 
 **利益相关者可以以不同的方式使用陀螺仪CLPs，这是互利的：**
