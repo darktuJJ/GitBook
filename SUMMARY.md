@@ -49,11 +49,27 @@
 
 ## 治理 <a href="#治理" id="治理"></a>
 
+* [概述](zhi-li/gai-shu.md)
+* [运作方式](zhi-li/yun-zuo-fang-shi/README.md)
+  * [投票金库](zhi-li/yun-zuo-fang-shi/tou-piao-jin-ku/README.md)
+    * [创始成员金库](zhi-li/yun-zuo-fang-shi/tou-piao-jin-ku/chuang-shi-cheng-yuan-jin-ku.md)
+    * [议员金库](zhi-li/yun-zuo-fang-shi/tou-piao-jin-ku/yi-yuan-jin-ku.md)
+    * [关联 DAO 金库](zhi-li/yun-zuo-fang-shi/tou-piao-jin-ku/guan-lian-dao-jin-ku.md)
+    * [GYFI 金库](zhi-li/yun-zuo-fang-shi/tou-piao-jin-ku/gyfi-jin-ku.md)
+    * [GYD LP 金库](zhi-li/yun-zuo-fang-shi/tou-piao-jin-ku/gyd-lp-jin-ku.md)
+  * [行动分级](zhi-li/yun-zuo-fang-shi/xing-dong-fen-ji.md)
+  * [提案](zhi-li/yun-zuo-fang-shi/ti-an.md)
+  * [投票委托](zhi-li/yun-zuo-fang-shi/tou-piao-wei-tuo.md)
+  * [有条件现金流](zhi-li/yun-zuo-fang-shi/you-tiao-jian-xian-jin-liu.md)
+  * [GYD 恢复模块](zhi-li/yun-zuo-fang-shi/gyd-hui-fu-mo-kuai.md)
+* [乐观批准机制](zhi-li/le-guan-pi-zhun-ji-zhi/README.md)
+  * [紧急恢复机制](zhi-li/le-guan-pi-zhun-ji-zhi/jin-ji-hui-fu-ji-zhi.md)
+  * [限制可升级性](zhi-li/le-guan-pi-zhun-ji-zhi/xian-zhi-ke-sheng-ji-xing.md)
+* [官方链接](治理/官方链接.md)
 * [治理的基本要素](治理/治理的基本要素/README.md)
   * [乐观治理](治理/治理的基本要素/乐观治理.md)
   * [有条件现金流](治理/治理的基本要素/有条件现金流.md)
 * [陀螺卫士](治理/陀螺卫士.md)
-* [官方链接](治理/官方链接.md)
 
 ## Gyro原型
 

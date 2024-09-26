@@ -1,5 +1,6 @@
 ---
 description: 弹性治理元素在陀螺仪中的应用
+hidden: true
 ---
 
 # 治理的基本要素
