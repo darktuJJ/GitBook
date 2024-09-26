@@ -31,6 +31,7 @@
   * [支持场所](tuo-luo-yi-xie-yi/sgyd-he-chu-bei-shou-yi-fa-fang-gai-lan/zhi-chi-chang-suo.md)
   * [sGYD 内部机制](tuo-luo-yi-xie-yi/sgyd-he-chu-bei-shou-yi-fa-fang-gai-lan/sgyd-nei-bu-ji-zhi.md)
   * [风险](tuo-luo-yi-xie-yi/sgyd-he-chu-bei-shou-yi-fa-fang-gai-lan/feng-xian.md)
+* [GYD 跨链桥接](tuo-luo-yi-xie-yi/gyd-kua-lian-qiao-jie.md)
 * [技术文档](陀螺仪协议/技术文档/README.md)
   * [综合价格馈送](陀螺仪协议/技术文档/zong-he-jia-ge-kui-song.md)
 * [了解更多](陀螺仪协议/了解更多.md)
