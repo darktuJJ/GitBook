@@ -44,7 +44,8 @@
   * [陀螺仪与学术界](陀螺仪协议/常见问题/陀螺仪与学术界.md)
   * [经典问答](陀螺仪协议/常见问题/经典问答.md)
 * [审计报告](tuo-luo-yi-xie-yi/shen-ji-bao-gao.md)
-* [审计报告](tuo-luo-yi-xie-yi/shen-ji-bao-gao-1.md)
+* [风险](tuo-luo-yi-xie-yi/feng-xian.md)
+* [审计报告](陀螺仪协议/审计报告.md)
 
 ## 治理 <a href="#治理" id="治理"></a>
 

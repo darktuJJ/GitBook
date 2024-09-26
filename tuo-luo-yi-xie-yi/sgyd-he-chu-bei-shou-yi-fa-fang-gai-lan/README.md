@@ -42,8 +42,8 @@ _以下关于sGYD和Reserve收益发放的信息仅供参考，不应被视为�
 [an-quan-xing.md](an-quan-xing.md)
 {% endcontent-ref %}
 
-{% content-ref url="../shen-ji-bao-gao-1.md" %}
-[shen-ji-bao-gao-1.md](../shen-ji-bao-gao-1.md)
+{% content-ref url="../../陀螺仪协议/审计报告.md" %}
+[审计报告.md](../../陀螺仪协议/审计报告.md)
 {% endcontent-ref %}
 
 {% content-ref url="feng-xian.md" %}
