@@ -78,6 +78,15 @@
 * [合约地址](gyro-yuan-xing/he-yue-di-zhi.md)
 * [DSM错误代码：](gyro-yuan-xing/dsm-cuo-wu-dai-ma.md)
 
+***
+
+* [已部署合约](yi-bu-shu-he-yue/README.md)
+  * [Pools](yi-bu-shu-he-yue/pools.md)
+  * [GYD Core](yi-bu-shu-he-yue/gyd-core.md)
+  * [Governance](yi-bu-shu-he-yue/governance.md)
+  * [Gyro Proto](yi-bu-shu-he-yue/gyro-proto.md)
+  * [新闻媒体套件](yi-bu-shu-he-yue/xin-wen-mei-ti-tao-jian.md)
+
 ## 相关文档 <a href="#相关文档" id="相关文档"></a>
 
 * [与众不同的陀螺仪](相关文档/与众不同的陀螺仪/README.md)

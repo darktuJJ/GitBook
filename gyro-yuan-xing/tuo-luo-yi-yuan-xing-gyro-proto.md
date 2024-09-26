@@ -18,9 +18,7 @@ Gyro Proto（p-GYD）是Gyroscope稳定币系统的测试版。在完整的Gyros
 
 {% embed url="https://lh4.googleusercontent.com/BksD8MLIr3jc5GkDDekDOzJiUtsZ0ocyW4NUTLlxAmnqAmkVndu_pzM4gxcOV3NkzCT2NNcdM72CHEt3xAbPhraPPg4gT8eHH-ztKhWIeMrdbpzvexePgG2NCD_bLXDgszUE6JAfLlkzWuG6E2wnbBHwZAvNLEECkrI2dmwHkeeRgR9Lu4IT7EOO1-vKVg" %}
 
-### Gyro Proto
-
-### 的目标
+### Gyro Proto的目标
 
 Gyro Proto发布的目的是在实际环境中测试协议，特别是在生产环境中测试智能合约及其交互。经过测试期后，目标是将经过校准和测试的合约代码交给Gyroscope治理，以便根据其决定启动最终系统。
 

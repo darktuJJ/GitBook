@@ -1,5 +1,6 @@
 ---
 description: Gyro Proto的关键Polygon合约地址：
+hidden: true
 ---
 
 # 合约地址
