@@ -65,6 +65,7 @@
 * [乐观批准机制](zhi-li/le-guan-pi-zhun-ji-zhi/README.md)
   * [紧急恢复机制](zhi-li/le-guan-pi-zhun-ji-zhi/jin-ji-hui-fu-ji-zhi.md)
   * [限制可升级性](zhi-li/le-guan-pi-zhun-ji-zhi/xian-zhi-ke-sheng-ji-xing.md)
+* [治理流程](zhi-li/zhi-li-liu-cheng.md)
 * [官方链接](治理/官方链接.md)
 * [治理的基本要素](治理/治理的基本要素/README.md)
   * [乐观治理](治理/治理的基本要素/乐观治理.md)
